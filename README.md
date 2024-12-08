@@ -1,6 +1,6 @@
 # Falcon_Hunter_Python_Game
 
-##Enter your name to start the game
+Enter your name to start the game
 
 Press "b" to shoot
 
